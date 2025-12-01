@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rojitobb
+- 👋 Hi, I’m @RedBear
 - 👀 I’m interested in music, art, sports, cofee
 - 🌱 I’m currently learning C, Java, Phyton
 - 💞️ I’m looking to collaborate on joe... mama
